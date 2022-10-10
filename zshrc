@@ -70,3 +70,7 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+export BROWSER='/mnt/c/Users/30697/AppData/Local/Google/Chrome/Application/chrome.exe'
+alias jn='jupyter notebook'
+alias jb='jupyter lab'
